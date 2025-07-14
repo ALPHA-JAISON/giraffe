@@ -1,11 +1,5 @@
 print("CALCULATOR")
 print("Valid operators include: *, /, +, -,!  and sqrt")
-# Add two numbers
-# subtract two numbers
-# multiply two numbers
-# divide two numbers
-# find the square root of the number
-# adding factorial !
 error = "invalid operator"
 num1 = int(input("Enter the first number: "))
 num2 = int(input("Enter the second number: "))
